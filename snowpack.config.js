@@ -23,6 +23,9 @@ module.exports = {
   ],
   alias: {
     '~': './src'
+  },
+  devOptions: {
+    port: 8079
   }
 }
 
